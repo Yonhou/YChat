@@ -1,0 +1,8 @@
+D:\SourceTree\zzWorkArea\YChat\YChatServer\YChatServer\obj\Debug\ResolveAssemblyReference.cache
+D:\SourceTree\zzWorkArea\YChat\YChatServer\YChatServer\obj\Debug\YChatServer.formYChatServer.resources
+D:\SourceTree\zzWorkArea\YChat\YChatServer\YChatServer\obj\Debug\YChatServer.Properties.Resources.resources
+D:\SourceTree\zzWorkArea\YChat\YChatServer\YChatServer\obj\Debug\YChatServer.csproj.GenerateResource.Cache
+D:\SourceTree\zzWorkArea\YChat\YChatServer\YChatServer\bin\Debug\YChatServer.exe
+D:\SourceTree\zzWorkArea\YChat\YChatServer\YChatServer\bin\Debug\YChatServer.pdb
+D:\SourceTree\zzWorkArea\YChat\YChatServer\YChatServer\obj\Debug\YChatServer.exe
+D:\SourceTree\zzWorkArea\YChat\YChatServer\YChatServer\obj\Debug\YChatServer.pdb
